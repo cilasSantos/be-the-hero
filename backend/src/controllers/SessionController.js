@@ -9,7 +9,7 @@ function Session() {
         if (!result)
             return response.status(400).json({ error:'No ONG found with this ID.' })
             
-        return response.json(result.name)
+        return response.json({name:result.name})
 
     }
 
