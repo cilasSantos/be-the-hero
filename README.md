@@ -2,6 +2,8 @@
   <img alt="License" src="frontend/src/assets/logo.svg">
 </h3>
 
+---
+
 <p align="center">
    <img alt="License" src="telas.gif">
 </p>
