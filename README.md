@@ -44,7 +44,7 @@ _ps: Antes de executar lembre de instalar o `expo-cli` na maquina_. Caso não te
 4. Entre na pasta `frontend`;
    1. Rode `npm install` para instalar as dependências
    2. Rode `npm start`;
-5. Entre na pasta `mobile` "lembre de instalar o `expo-cli`, OK!!😉👍";
+5. Entre na pasta `mobile` "lembre de instalar o `expo-cli` 😉👍";
    1. Rode `npm install` para instalar as dependências
    2. Rode `npm start`;
    
